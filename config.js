@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;drYSGCiA#JdOaLzE8aDI-bxj1hLHLY3cts5YFi4AoV8W2d9lDc-A' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://macintosh_user:7fDTqZptr7SmmCWYzG8qIKFFnfepkVRk@dpg-ck8tre47m7is73avtjf0-a.frankfurt-postgres.render.com/macintosh'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '233553117413'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'DUNCAN'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,21 +41,21 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'MACINTOSH😎' 
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@DUNCAN 🤹‍♂️' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = 'Duncan 2023 '
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = 'DUNCAN  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO  'telegra.ph/file/c89c6bae557601c3d9acc.jpg' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = 'default' // Set Alive Message
 
@@ -67,7 +67,7 @@ global.ANTI_BAD_ACTION = false
 
 global.ANTI_LINK = 'false' //Anti Link (on = True , Off = False )
 
-global.ANTI_BOTS = true
+global.ANTI_BOTS = false 
 
 global.ONLY_GROUP = 'false' // Only group mode
 
@@ -89,7 +89,7 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
+global.ytname = "YT:Duncan Nuako" //ur yt chanel name
 global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
 global.location = "Srilanka, colombo" //ur location
 
